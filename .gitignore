@@ -1,0 +1,20 @@
+
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints/
+runs/
+models/
+datasets/
+data/raw/
+data/processed/
+*.pt
+*.onnx
+*.engine
+*.zip
+*.tar
+*.tar.gz
+# тестове зображення, яке YOLO завантажує під час smoke test
+bus.jpg
